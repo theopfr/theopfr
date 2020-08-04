@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+![github_gif](github_gif.gif)
+
+
 <!--
 **hollowcodes/hollowcodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
