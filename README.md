@@ -1,4 +1,3 @@
-### Hi there 👋
 
 ![github_gif](github_gif.gif)
 
