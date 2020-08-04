@@ -6,4 +6,3 @@
 
 - 🔭 19 years old, from munich
 - 🌱 studying AI & Data Science
-- 📫 email: teddypeifer@gmail.com
