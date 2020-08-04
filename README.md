@@ -1,5 +1,5 @@
 
-![github_gif](github_gif.gif)
+![github_gif](github_gif2.gif)
 
 
 <!--
