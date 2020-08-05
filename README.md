@@ -7,4 +7,4 @@
 - 👀 19 years old, from munich
 - 🌱 studying AI & Data Science
 
-- coding :octocat: - ramen 🍜🍤🍲 - music 🎵🎧🎶 - sci-if 👽🚀🌌 - D&D 🎲📝🐉 - movies 🎬🎥📺 - books 📕📚📓 - martial arts 
+- coding :octocat: - ramen 🍜🍤🍲 - music 🎵🎧🎶 - sci-if 👽🚀🌌 - D&D 🎲📝🐉 - movies 🎬🎥📺 - books 📕📚📓
