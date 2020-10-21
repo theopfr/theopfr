@@ -6,6 +6,6 @@
 
 - 👀 19 years old, from munich
 - 🌱 learning AI & Data Science
-- 📝 studying in TH Ingolstadt
+- 📝 studying at TH Ingolstadt
 
 - coding :octocat:💻📟  -  ramen 🍜🍤🍲  -  music 🎵🎧🎶  -  sci-if 👽🚀🌌  -  D&D 🎲📝🐉  -  movies 🎬🎥📺  -  books 📕📚📓
