@@ -8,4 +8,6 @@
 - 🌱 learning AI & Data Science
 - 📝 studying at TH Ingolstadt
 
+<!--
 - coding :octocat:💻📟  -  ramen 🍜🍤🍲  -  music 🎵🎧🎶  -  sci-if 👽🚀🌌  -  D&D 🎲📝🐉  -  movies 🎬🎥📺  -  books 📕📚📓
+-->
