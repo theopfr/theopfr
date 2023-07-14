@@ -3,6 +3,7 @@
 - 🙋‍♂️ 21 years old, from Munich
 - 🌱 fullstack development, machine learning and UX/UI design
 - 👨‍💻 currently working on an in-memory key-value database called [cachew-db](https://github.com/theopfr/cachew-db)
+- 👨‍💻 currently maintaining [www.name-to-ethnicity.com](https://www.name-to-ethnicity.com) ([GitHub](https://github.com/name-ethnicity-classifier))
 <!--- 🖥️ currently working at [qdive.io](https://www.qdive.io/) as a working student
 - 👨‍💻 currently maintaining [www.name-to-ethnicity.com](https://www.name-to-ethnicity.com) ([GitHub](https://github.com/name-ethnicity-classifier))
 -->
