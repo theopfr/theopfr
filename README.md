@@ -2,9 +2,7 @@
 - 👋 hi, I'm Theo!
 - 🙋‍♂️ 22 years old, from Munich
 - 🌱 fullstack development, machine learning and UX/UI design
-- 👨‍💻 currently working on an in-memory key-value database called [cachew-db](https://github.com/theopfr/cachew-db)
-- 👨‍💻 currently maintaining [www.name-to-ethnicity.com](https://www.name-to-ethnicity.com) ([GitHub](https://github.com/name-ethnicity-classifier))
-<!--- 🖥️ currently working at [qdive.io](https://www.qdive.io/) as a working student
-- 👨‍💻 currently maintaining [www.name-to-ethnicity.com](https://www.name-to-ethnicity.com) ([GitHub](https://github.com/name-ethnicity-classifier))
--->
+- 🖥️ currently working at Rohde&Schwarz
+- 👨‍💻 maintainer of [www.name-to-ethnicity.com](https://www.name-to-ethnicity.com)
+
 ![theopfr's GitHub stats](https://github-readme-stats.vercel.app/api?username=theopfr&theme=tokyonight&show_icons=true&hide_border=true)
