@@ -1,4 +1,4 @@
-### 👋 Hi, I'm Theo!
+## 👋 Hi, I'm Theo!
 - 🙋‍♂️ 22 years old, from Munich
 - 🌱 fullstack development, machine learning and UX/UI design
 - ⚙️ mainly coding with ``.py``, ``.rs`` and ``.ts``
