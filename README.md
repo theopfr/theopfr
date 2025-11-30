@@ -7,5 +7,5 @@
       (  ヽ＿ヽ_)_)
        ＼_＿ノ
  
-![theopfr's GitHub stats](https://github-readme-stats.vercel.app/api?username=theopfr&theme=tokyonight&show_icons=true&hide_border=true)
+<!--![theopfr's GitHub stats](https://github-readme-stats.vercel.app/api?username=theopfr&theme=tokyonight&show_icons=true&hide_border=true)-->
 
